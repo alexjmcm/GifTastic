@@ -35,8 +35,8 @@ h1{
 }
 
 .btn:focus{
-	outline: 2px solid orange !important;
-	background-color: lightskyblue;
+	outline: 2px solid #be352f !important;
+	background-color: #5D8AA8;
 	color: white;
 }
 
