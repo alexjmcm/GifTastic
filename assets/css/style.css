@@ -1,0 +1,94 @@
+h1{
+	font-family: "Comic Sans MS";
+	font-size: 60px;
+	text-align: center;
+    margin-top: 3vh;
+	margin-bottom: 2vh;
+
+}
+
+
+
+.row{
+	margin-bottom: 4vh;
+	margin-left: 4vw;
+	margin-right: 2vw;
+}
+
+
+	
+
+
+
+.btn{
+	font-family: "Comic Sans MS";
+	font-size: 16px;
+	background-color: #5D8AA8;
+	color: white;
+	padding: 2vh 2vw;
+   
+   
+}
+
+.btn:hover{
+	color: orange;
+}
+
+.btn:focus{
+	outline: 2px solid orange !important;
+	background-color: lightskyblue;
+	color: white;
+}
+
+.movies-button{
+	margin: .5vh 1vw;
+}
+
+.dotted-border{
+	border: 3px solid #be352f;
+}
+
+
+.individual-gif-container{
+	float: left;
+	margin: 3vh 3vw 3vh 3vw;
+}
+
+
+.comic-sans-font{
+	font-family: "Comic Sans MS";
+	font-size: 18px;
+	font-weight: 800;
+	color: black;
+}
+
+.gif-image{
+	margin-top: 1vh;
+	margin-bottom: 1vh;
+}
+
+#submit{
+	margin-top: 1vh;
+}
+
+#movies{
+	margin-top: 2vh;
+	width: 100%;
+}
+
+#movies:focus{
+	outline: 2.5px solid orange !important;
+}
+
+#gif-container{
+	font-size: 20px;
+}
+
+body{
+	background: url("../images/movie-theatre.jpg") no-repeat right bottom fixed;
+}
+
+.center {
+          text-align: center
+}
+
